@@ -1,0 +1,36 @@
+#Set-up your environment like a Pro. I will surely add more to the list. :-)
+#Author: Sahil Sharma
+
+* mc (file explorer for terminal)
+* pydf (nice view of disk free) 
+* thefuck (auto correction of wrongly typed commands)
+* aria2 (much faster than wget)
+* mtr (combo of traceroute and ping)
+* htop
+* ack-grep (search tools better than grep)
+* nnn (file analyzer: useful when running short of disk space)
+* copyQ (for clipboard)
+* tldr (alternate to man pages)
+* pwgen (password genrator)
+* how2 (stackoverflow from terminal)
+* http-server (handy tool for a simple HTTP server)
+* localtunnel (easy way to expose your localhost to the world for testing and sharing)
+* doctl (command line tool for DigitalOcean services)
+* json-server (a full fake REST API)
+* jq (A lightweight and flexible command-line JSON processor)
+* pet (Use to store the commands you use the most)
+* speedtest-cli ( Command line interface for testing internet bandwidth using speedtest.net)
+* public-ip-cli (Get your public IP address)
+* internal-ip-cli (Get your internal IP address)
+* zsh/ohmyzsh with auto-completion (alternate to bash)
+* pick (color picker)
+* draw.io (designing all kinds of diagrams, from flowcharts, to sequence diagrams or even wireframes)
+* shutter (taking screenshots and quickly annotate them with arrows, boxes etc. Have nice effects like blur sensible parts of an image)
+* nl <file-name> (get the number of lines)
+* info coreutils (many good examples)
+* nl <filename> (shows the lines with numbers immediately)
+* nproc (prints number of cores)
+* history (gives the list of all commands ran on the system). want to run a specific command:
+  !<command-number-from-history>
+* bc (terminal calculator)
+* wc <file-name> {prints total word count}
